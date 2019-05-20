@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Domino Roll</string>
+    <string name="domino_title">My Domino Roll</string>
+    <string name="button_text">Roll</string>
+</resources>
